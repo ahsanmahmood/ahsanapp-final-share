@@ -1,0 +1,41 @@
+body .dataTables_wrapper {
+	background: white;
+	padding: 10px;
+}
+div.dataTables_wrapper div.dataTables_length label {
+	float: left !important;
+}
+div.dataTables_wrapper div.dataTables_info {
+	text-align: left !important;
+    font-weight: bold !important;
+}
+
+/* Utilities */
+.p-10 {
+	padding: 10px;
+}
+.font-size-20 {
+	font-size: 20px;
+}
+.border {
+	border: 1px solid black;
+}
+.border-left {
+	border-left: 1px solid black;
+}
+.border-right {
+	border-right: 1px solid black;
+}
+.d-inline-block {
+	display: inline-block;
+}
+.custom_dive_1 strong,.custom_div_1 strong {
+	text-transform: capitalize;
+}
+.btn-simple {
+	border: none;
+	background: none;
+}
+.btn-simple i.fa-trash {
+	color: red;
+}
